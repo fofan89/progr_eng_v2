@@ -13,3 +13,4 @@ The "Telegram-bot - cif file Descriptor" is a specialized bot designed to handle
 
 5. **Telegram Integration:** As a Telegram bot, it seamlessly integrates with the Telegram messaging platform, allowing users to conveniently upload and analyze CIF files directly within their chat conversations.
 
+![anim](https://github.com/fofan89/progr_eng_v2/assets/71543763/5a15d8a9-528a-4b73-9b23-320a87643d4b)
