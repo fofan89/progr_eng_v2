@@ -41,3 +41,17 @@ https://github.com/fofan89/progr_eng_v2/assets/71543763/8950f3a9-5134-416b-8877-
 ## **If you want chage render scene**
 Open **scenus.blend** in Blender and change scene template.
 
+## **Requariments**
++ python==3.10.9
++ ase==3.22.1
++ bpy==4.0.0
++ python-telegram-bot==20.8
++ Requests==2.31.0
++ wikipedia==1.4.0
+
+### For Blender
+To import XYZ file with atoms into scene necessary **Atomic Blender (PDB/XYZ)** addon - https://docs.blender.org/manual/en/4.0/addons/import_export/mesh_atomic.html?utm_source=blender-4.0.2
+
+
+
+
