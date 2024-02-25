@@ -41,7 +41,7 @@ https://github.com/fofan89/progr_eng_v2/assets/71543763/8950f3a9-5134-416b-8877-
 ## **If you want chage render scene**
 Open **scenus.blend** in Blender and change scene template.
 
-## **Requariments**
+## **Requirements**
 + python==3.10.9
 + ase==3.22.1
 + bpy==4.0.0
