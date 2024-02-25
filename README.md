@@ -19,3 +19,10 @@ https://github.com/fofan89/progr_eng_v2/assets/71543763/30675221-4ed4-4431-b0be-
 
 https://github.com/fofan89/progr_eng_v2/assets/71543763/8950f3a9-5134-416b-8877-d8e66460cd5e
 
+## **User input**
+
++ **/start** - greeting from bot.
++ **/info X** - get Wikipedia info about X.
++ **/video** - send rendered video of crystal structure based on cif file.
++ **cif file** - send description of crystal structure, send rendered image of crystal, send desctiption of crystal structure generatetd by GPT.
+
