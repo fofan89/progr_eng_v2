@@ -37,3 +37,7 @@ https://github.com/fofan89/progr_eng_v2/assets/71543763/8950f3a9-5134-416b-8877-
 3. Run **get_token.py** to generate Gigachat TOKEN
 4. Run **bpy_video_watchdog.py** to generate video render independently on telegram bot
 5. Run **telegr_bot_v2.py**
+
+## **If you want chage render scene**
+Open **scenus.blend** in Blender and change scene template.
+
