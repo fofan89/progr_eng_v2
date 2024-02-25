@@ -26,3 +26,5 @@ https://github.com/fofan89/progr_eng_v2/assets/71543763/8950f3a9-5134-416b-8877-
 + **/video** - send rendered video of crystal structure based on cif file.
 + **cif file** - send description of crystal structure, send rendered image of crystal, send desctiption of crystal structure generatetd by GPT.
 
+## **Security files**
+
