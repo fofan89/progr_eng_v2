@@ -27,4 +27,9 @@ https://github.com/fofan89/progr_eng_v2/assets/71543763/8950f3a9-5134-416b-8877-
 + **cif file** - send description of crystal structure, send rendered image of crystal, send desctiption of crystal structure generatetd by GPT.
 
 ## **Security files**
++ **bron.txt** - telegram TOKEN
++ **get_token_info.txt** - ID and Autarization for Gigachat get Token operation
++ **gig.txt** - Gigachat TOKEN
 
+## **Quick start**
+1. 
