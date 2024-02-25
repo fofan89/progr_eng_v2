@@ -32,4 +32,8 @@ https://github.com/fofan89/progr_eng_v2/assets/71543763/8950f3a9-5134-416b-8877-
 + **gig.txt** - Gigachat TOKEN
 
 ## **Quick start**
-1. 
+1. Get telegram bot TOKEN and write it into **bron.txt**
+2. Get Gigachat ID and Autarization and write it into **get_token_info.txt**
+3. Run **get_token.py** to generate Gigachat TOKEN
+4. Run **bpy_video_watchdog.py** to generate video render independently on telegram bot
+5. Run **telegr_bot_v2.py**
